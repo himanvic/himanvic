@@ -4,11 +4,11 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,45:312E81,100:0891B2&height=220&section=header&text=Himanshu&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%7C%20Python%20%7C%20Building%20by%20Learning&descAlignY=58&descSize=16" alt="Himanshu — C++, Python, and building by learning" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,45:312E81,100:0891B2&height=220&section=header&text=H&fontSize=86&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%7C%20Python%20%7C%20Building%20by%20Learning&descAlignY=58&descSize=16" alt="H — C++, Python, and building by learning" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=67E8F9&center=true&vCenter=true&width=760&height=48&lines=Focused+on+C%2B%2B+and+Python;Learning+the+fundamentals+one+step+at+a+time;Practising+logic+and+problem-solving;Building+small+projects+to+learn+by+doing" alt="Animated introduction: C++, Python, fundamentals, problem-solving, and projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=67E8F9&center=true&vCenter=true&width=760&height=48&lines=H;Focused+on+C%2B%2B+and+Python;Learning+the+fundamentals+one+step+at+a+time;Practising+logic+and+problem-solving;Building+small+projects+to+learn+by+doing" alt="Animated introduction: C++, Python, fundamentals, problem-solving, and projects" />
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Himanshu**. I learn by writing code, testing ideas, fixing mistakes, and gradually making my projects better.
+Hi! I learn by writing code, testing ideas, fixing mistakes, and gradually making my projects better.
 
 - 🎯 **Main focus:** C++ and Python
 - 🧠 **Practising:** programming fundamentals, logical thinking, and problem-solving
