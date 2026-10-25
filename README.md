@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="assets/h-profile-banner.svg" alt="Sci-fi hologram H with C++ and Python as the primary learning focus" width="100%" />
+  <img src="h-profile-banner.svg" alt="Sci-fi hologram H with C++ and Python as the primary learning focus" width="100%" />
 </div>
 
 <div align="center">
