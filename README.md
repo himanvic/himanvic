@@ -120,10 +120,6 @@ These are the two languages I'm currently focusing on. My web projects are liste
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanvic&bg_color=080d1b&color=67e8f9&line=a78bfa&point=67e8f9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="96%" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanvic/himanvic/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanvic/himanvic/output/github-snake.svg" />
