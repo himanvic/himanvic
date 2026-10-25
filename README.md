@@ -1,6 +1,6 @@
 <!--
   GitHub profile README for https://github.com/himanvic
-  Upload this file and the assets/ folder to a NEW public repository named exactly: himanvic
+  Upload this README.md and h-profile-banner.svg to the root of the public repository named exactly: himanvic
   Your private himanvic-portfolio repository and himanvic.pages.dev website stay separate.
 -->
 
@@ -60,13 +60,13 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
       <h3>◈ <a href="https://github.com/himanvic/sanskode">Sanskode</a></h3>
       <p>A local-first coding arcade concept with mini-games and bite-sized programming practice.</p>
       <p><a href="https://sanskode.pages.dev/">↗ Open live project</a></p>
-      <p><sub>Learning-focused experiment · HTML · CSS · JavaScript</sub></p>
+      <p><sub>Learning-focused web experiment</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>◈ <a href="https://github.com/himanvic/bottelneck.sys">bottelneck.sys</a></h3>
       <p>A laptop-finder experiment focused on organizing device information and workload-oriented recommendations.</p>
       <p><a href="https://github.com/himanvic/bottelneck.sys">↗ Explore repository</a></p>
-      <p><sub>Product experiment · Data organization · JavaScript</sub></p>
+      <p><sub>Product experiment · Data organization</sub></p>
     </td>
   </tr>
   <tr>
@@ -74,26 +74,26 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
       <h3>◈ <a href="https://github.com/himanvic/Mausam-India">Mausam India</a></h3>
       <p>A responsive India weather dashboard with forecast and air-quality information.</p>
       <p><a href="https://mausam-india.pages.dev/">↗ Open live project</a></p>
-      <p><sub>Web experiment · HTML · CSS · JavaScript</sub></p>
+      <p><sub>Weather dashboard experiment</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>◈ <a href="https://github.com/himanvic/NaradNow">NaradNow</a></h3>
       <p>An Indian news and current-affairs dashboard with topic filters, search, and bookmarks.</p>
       <p><a href="https://naradnow.pages.dev/">↗ Open live project</a></p>
-      <p><sub>Web experiment · Interface design · JavaScript</sub></p>
+      <p><sub>News dashboard experiment</sub></p>
     </td>
   </tr>
 </table>
 
 <p align="center"><a href="https://github.com/himanvic?tab=repositories"><strong>OPEN ALL PUBLIC REPOSITORIES ↗</strong></a></p>
 
-## `04 // TOOLKIT`
+## `04 // ACTIVE STACK`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js&perline=6" alt="VS Code, Git, GitHub, HTML, CSS, and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python&perline=2" alt="Current learning focus: C++ and Python only" />
 </div>
 
-C++ and Python are the main learning focus. The web technologies above are tools I've used while building browser-based project experiments.
+These are the two languages I'm currently focusing on. My web projects are listed as experiments I've built; they are not claims of expertise or a separate current learning track.
 
 ## `05 // ACTIVITY TELEMETRY`
 
