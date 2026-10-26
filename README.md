@@ -75,32 +75,32 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
 <table>
   <tr>
     <td width="50%" align="center">
+      <a href="https://himanvic.pages.dev/"><img src="assets/card-himanvic-portfolio.svg" alt="himanvic-portfolio project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/himanvic-portfolio">repo</a> · <a href="https://himanvic.pages.dev/">live</a></sub>
+    </td>
+    <td width="50%" align="center">
       <a href="https://rail-route-website.pages.dev"><img src="assets/card-rail-route-website.svg" alt="rail-route-website project card" width="100%" /></a>
       <br /><sub><a href="https://github.com/himanvic/rail-route-website">repo</a> · <a href="https://rail-route-website.pages.dev">live</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://naradnow.pages.dev/"><img src="assets/card-naradnow.svg" alt="NaradNow project card" width="100%" /></a>
       <br /><sub><a href="https://github.com/himanvic/NaradNow">repo</a> · <a href="https://naradnow.pages.dev/">live</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/himanvic/bottelneck.sys"><img src="assets/card-bottelneck-sys.svg" alt="bottelneck.sys project card" width="100%" /></a>
       <br /><sub><a href="https://github.com/himanvic/bottelneck.sys">repo</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://mausam-india.pages.dev"><img src="assets/card-mausam-india.svg" alt="Mausam-India project card" width="100%" /></a>
       <br /><sub><a href="https://github.com/himanvic/Mausam-India">repo</a> · <a href="https://mausam-india.pages.dev">live</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://sanskode.pages.dev"><img src="assets/card-sanskode.svg" alt="sanskode project card" width="100%" /></a>
       <br /><sub><a href="https://github.com/himanvic/sanskode">repo</a> · <a href="https://sanskode.pages.dev">live</a></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://himanvic.github.io/Quantum-Gravity-Shift/"><img src="assets/card-quantum-gravity-shift.svg" alt="Quantum-Gravity-Shift project card" width="100%" /></a>
-      <br /><sub><a href="https://github.com/himanvic/Quantum-Gravity-Shift">repo</a> · <a href="https://himanvic.github.io/Quantum-Gravity-Shift/">live</a></sub>
     </td>
   </tr>
 </table>
