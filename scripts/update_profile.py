@@ -263,7 +263,7 @@ def terminal_svg(user, repos, live):
 def stats_svg(user, repos, live):
     head = (f'<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Real GitHub numbers">'
             f'<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060914"/><stop offset="1" stop-color="#120C26"/></linearGradient>'
-            f'<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>'
+            f'<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="0" x2="900"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>'
             f'<filter id="gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>'
             f'<rect x="1" y="1" width="898" height="228" rx="14" fill="url(#bg)" stroke="#67E8F9" stroke-opacity=".3" stroke-width="1.5"/>')
     title = lambda s: f'<text x="30" y="36" font-family="{FONT}" font-size="12" letter-spacing="3" fill="#7DD3FC">{s}</text><path d="M30 46H870" stroke="url(#ln)"/>'
