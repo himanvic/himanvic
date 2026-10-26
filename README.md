@@ -54,12 +54,12 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
   <img src="assets/orbit.svg" alt="Animated orbit: C++ and Python on the inner orbit, Git, GitHub and VS Code on the outer orbit" width="760" />
 </div>
 
-| Module | Current work |
-|:--|:--|
-| **C++** | Syntax, variables, conditions, loops, functions, and problem-solving practice |
-| **Python** | Fundamentals, readable code, scripting, and small practical exercises |
-| **Problem solving** | Breaking problems into steps, tracing logic, and learning from errors |
-| **Developer workflow** | Using VS Code, Git, and GitHub to track project changes |
+| Module                 | Current work                                                                  |
+| :--------------------- | :---------------------------------------------------------------------------- |
+| **C++**                | Syntax, variables, conditions, loops, functions, and problem-solving practice |
+| **Python**             | Fundamentals, readable code, scripting, and small practical exercises         |
+| **Problem solving**    | Breaking problems into steps, tracing logic, and learning from errors         |
+| **Developer workflow** | Using VS Code, Git, and GitHub to track project changes                       |
 
 <sub>These are my current learning areas, not proficiency or certification claims.</sub>
 
@@ -68,6 +68,8 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
 ## `03 // PROJECT ARCHIVE`
 
 <sub>Auto-generated from my real public repositories (name, description, language, stars, last push, weekly commits).</sub>
+
+<sub>I use AI assistance in every project to move faster while I learn.</sub>
 
 <!--REPOS:START-->
 <table>
@@ -140,8 +142,6 @@ These are the two languages I'm currently focusing on. My web projects are liste
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D view of my real GitHub contributions" width="96%" />
 </div>
-
-<sub>Everything above is built from public GitHub data and refreshes automatically. Third-party cards can take time to refresh or occasionally be unavailable; none of this measures programming skill.</sub>
 
 <details>
 <summary><code>▶ ACCESS HIDDEN TRANSMISSION</code></summary>
