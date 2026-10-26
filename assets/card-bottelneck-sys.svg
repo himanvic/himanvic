@@ -25,5 +25,5 @@
 <text x="530" y="151" font-size="10" letter-spacing="2" fill="#E0FCFF" text-anchor="end">OPEN</text>
 <path d="M538 146h14m-5-5 5 5-5 5" fill="none" stroke="#F472B6" stroke-width="2"><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.2s" repeatCount="indefinite"/></path>
 </g>
-
+<polyline points="400,112 414,112 428,50 442,112 456,112 470,112 484,112 498,112 512,112 526,112 540,84 554,112" fill="none" stroke="#F472B6" stroke-width="2" stroke-linejoin="round" pathLength="300" stroke-dasharray="300" stroke-dashoffset="300" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="300;0;0;300" keyTimes="0;.45;.9;1" dur="5s" repeatCount="indefinite"/></polyline><text x="400" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="8.5" letter-spacing="1.5" fill="#F472B6" opacity=".7">COMMITS/WK, 12 WEEKS</text>
 </svg>
