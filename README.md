@@ -75,18 +75,18 @@ I learn by writing code, testing ideas, debugging mistakes, and gradually turnin
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://himanvic.pages.dev/"><img src="assets/card-himanvic-portfolio.svg" alt="himanvic-portfolio project card" width="100%" /></a>
-      <br /><sub><a href="https://github.com/himanvic/himanvic-portfolio">repo</a> · <a href="https://himanvic.pages.dev/">live</a></sub>
+      <a href="https://rail-route-website.pages.dev"><img src="assets/card-rail-route-website.svg" alt="rail-route-website project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/rail-route-website">repo</a> · <a href="https://rail-route-website.pages.dev">live</a></sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://mausam-india.pages.dev"><img src="assets/card-mausam-india.svg" alt="Mausam-India project card" width="100%" /></a>
-      <br /><sub><a href="https://github.com/himanvic/Mausam-India">repo</a> · <a href="https://mausam-india.pages.dev">live</a></sub>
+      <a href="https://himanvic.pages.dev/"><img src="assets/card-himanvic-portfolio.svg" alt="himanvic-portfolio project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/himanvic-portfolio">repo</a> · <a href="https://himanvic.pages.dev/">live</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://rail-route-website.pages.dev"><img src="assets/card-rail-route-website.svg" alt="rail-route-website project card" width="100%" /></a>
-      <br /><sub><a href="https://github.com/himanvic/rail-route-website">repo</a> · <a href="https://rail-route-website.pages.dev">live</a></sub>
+      <a href="https://mausam-india.pages.dev"><img src="assets/card-mausam-india.svg" alt="Mausam-India project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/Mausam-India">repo</a> · <a href="https://mausam-india.pages.dev">live</a></sub>
     </td>
     <td width="50%" align="center">
       <a href="https://naradnow.pages.dev/"><img src="assets/card-naradnow.svg" alt="NaradNow project card" width="100%" /></a>
