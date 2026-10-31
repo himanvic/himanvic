@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170" role="img" aria-label="rail-route-website project card">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1128"/><stop offset="1" stop-color="#120C26"/></linearGradient>
-<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#67E8F9" stop-opacity="0"/><stop offset=".5" stop-color="#67E8F9" stop-opacity=".16"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></linearGradient>
-<pattern id="gr" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#67E8F9" stroke-opacity=".06"/></pattern>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".16"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
+<pattern id="gr" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#A78BFA" stroke-opacity=".06"/></pattern>
 <filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <clipPath id="c"><rect x="1" y="1" width="578" height="168" rx="14"/></clipPath>
 </defs>
 <rect x="1" y="1" width="578" height="168" rx="14" fill="url(#bg)"/>
 <g clip-path="url(#c)"><rect width="580" height="170" fill="url(#gr)"/><rect x="-120" y="0" width="120" height="170" fill="url(#beam)"><animate attributeName="x" values="-120;580" dur="4.5s" repeatCount="indefinite"/></rect></g>
-<rect x="1" y="1" width="578" height="168" rx="14" fill="none" stroke="#67E8F9" stroke-opacity=".25"/>
-<rect x="1" y="1" width="578" height="168" rx="14" fill="none" stroke="#67E8F9" stroke-width="2.5" pathLength="1000" stroke-dasharray="130 870" filter="url(#gl)"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="578" height="168" rx="14" fill="none" stroke="#A78BFA" stroke-opacity=".25"/>
+<rect x="1" y="1" width="578" height="168" rx="14" fill="none" stroke="#A78BFA" stroke-width="2.5" pathLength="1000" stroke-dasharray="130 870" filter="url(#gl)"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" repeatCount="indefinite"/></rect>
 <g transform="translate(58 72)">
-<polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#67E8F9" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></polygon>
-<rect x="-10" y="-10" width="20" height="20" fill="#67E8F9" fill-opacity=".85" transform="rotate(45)"><animateTransform attributeName="transform" type="rotate" from="45" to="-315" dur="6s" repeatCount="indefinite"/></rect>
-<circle r="38" fill="none" stroke="#67E8F9" stroke-opacity=".4"><animate attributeName="r" values="30;44" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#A78BFA" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></polygon>
+<rect x="-10" y="-10" width="20" height="20" fill="#A78BFA" fill-opacity=".85" transform="rotate(45)"><animateTransform attributeName="transform" type="rotate" from="45" to="-315" dur="6s" repeatCount="indefinite"/></rect>
+<circle r="38" fill="none" stroke="#A78BFA" stroke-opacity=".4"><animate attributeName="r" values="30;44" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>
 </g>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
 <text x="118" y="62" font-size="17" font-weight="800" fill="#F0FDFF" letter-spacing="1">RAIL-ROUTE-WEBSITE</text>
-<rect x="118" y="70" width="0" height="2" fill="#67E8F9"><animate attributeName="width" values="0;150;150;0" keyTimes="0;.3;.8;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="118" y="70" width="0" height="2" fill="#A78BFA"><animate attributeName="width" values="0;150;150;0" keyTimes="0;.3;.8;1" dur="5s" repeatCount="indefinite"/></rect>
 <text x="118" y="96" font-size="12.5" fill="#9FB6D9">Student-built Indian Railways</text>
 <text x="118" y="115" font-size="12.5" fill="#9FB6D9">information website featuring l...</text>
-<circle cx="124" cy="147" r="4" fill="#67E8F9" filter="url(#gl)"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="136" y="151" font-size="10" letter-spacing="2" fill="#67E8F9">JAVASCRIPT // STARS 0 // PUSHED 2026-10-</text>
+<circle cx="124" cy="147" r="4" fill="#A78BFA" filter="url(#gl)"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="136" y="151" font-size="10" letter-spacing="2" fill="#A78BFA">JAVASCRIPT // STARS 0 // PUSHED 2026-10-</text>
 <text x="530" y="151" font-size="10" letter-spacing="2" fill="#E0FCFF" text-anchor="end">OPEN</text>
-<path d="M538 146h14m-5-5 5 5-5 5" fill="none" stroke="#67E8F9" stroke-width="2"><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M538 146h14m-5-5 5 5-5 5" fill="none" stroke="#A78BFA" stroke-width="2"><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.2s" repeatCount="indefinite"/></path>
 </g>
-<polyline points="400,112 414,112 428,112 442,112 456,112 470,112 484,112 498,112 512,112 526,112 540,112 554,50" fill="none" stroke="#67E8F9" stroke-width="2" stroke-linejoin="round" pathLength="300" stroke-dasharray="300" stroke-dashoffset="300" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="300;0;0;300" keyTimes="0;.45;.9;1" dur="5s" repeatCount="indefinite"/></polyline><text x="400" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="8.5" letter-spacing="1.5" fill="#67E8F9" opacity=".7">COMMITS/WK, 12 WEEKS</text>
+<polyline points="400,112 414,112 428,112 442,112 456,112 470,112 484,112 498,112 512,112 526,112 540,112 554,50" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linejoin="round" pathLength="300" stroke-dasharray="300" stroke-dashoffset="300" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="300;0;0;300" keyTimes="0;.45;.9;1" dur="5s" repeatCount="indefinite"/></polyline><text x="400" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="8.5" letter-spacing="1.5" fill="#A78BFA" opacity=".7">COMMITS/WK, 12 WEEKS</text>
 </svg>
