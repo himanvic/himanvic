@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="110" viewBox="0 0 280 110" role="img" aria-label="Rail &amp; Route">
+  <defs>
+    <linearGradient id="cardBg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090E1B"/>
+      <stop offset="100%" stop-color="#0B1325"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect x="1" y="1" width="278" height="108" rx="14" fill="url(#cardBg2)" stroke="#1E293B" stroke-width="1.2"/>
+
+  <!-- Icon Container -->
+  <rect x="14" y="23" width="60" height="64" rx="12" fill="#0E1726" stroke="#1E293B" stroke-width="1"/>
+  
+  <!-- Train Silhouette Icon -->
+  <g transform="translate(29, 36)">
+    <!-- Roof Indicator / Pantograph -->
+    <line x1="12" y1="2" x2="18" y2="2" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+    <line x1="15" y1="2" x2="15" y2="5" stroke="#94A3B8" stroke-width="1.5"/>
+
+    <!-- Train Body -->
+    <rect x="2" y="5" width="26" height="30" rx="6" fill="none" stroke="#F1F5F9" stroke-width="2.2"/>
+    
+    <!-- Large Front Windshield -->
+    <rect x="6" y="9" width="18" height="10" rx="3" fill="#334155"/>
+    
+    <!-- Twin Headlights -->
+    <circle cx="8" cy="26" r="2.2" fill="#FFFFFF"/>
+    <circle cx="22" cy="26" r="2.2" fill="#FFFFFF"/>
+    
+    <!-- Grille / Bumper -->
+    <line x1="6" y1="31" x2="24" y2="31" stroke="#F1F5F9" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Card Typography -->
+  <text x="86" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">Rail &amp; Route</text>
+  <text x="86" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#94A3B8">Plan. Track. Travel.</text>
+
+  <!-- Arrow -->
+  <g transform="translate(244, 76)">
+    <path d="M0 6h16m-5-5 5 5-5 5" fill="none" stroke="#64748B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
