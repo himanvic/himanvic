@@ -44,6 +44,7 @@ Learning software development through experimentation, problem-solving, and buil
       <a href="https://github.com/himanvic/Mausam-India"><strong>☁️ Mausam India</strong></a><br/>
       <sub>Weather insights for a better tomorrow.</sub>
     </td>
+<<<<<<< HEAD
     <td width="33%" align="left">
       <a href="https://github.com/himanvic/rail-route-website"><strong>🚆 Rail &amp; Route</strong></a><br/>
       <sub>Plan. Track. Travel.</sub>
@@ -51,6 +52,31 @@ Learning software development through experimentation, problem-solving, and buil
     <td width="33%" align="left">
       <a href="https://github.com/himanvic/NaradNow"><strong>📰 NaradNow</strong></a><br/>
       <sub>Real news. Real time.</sub>
+=======
+    <td width="50%" align="center">
+      <a href="https://mausam-india.pages.dev"><img src="assets/card-mausam-india.svg" alt="Mausam-India project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/Mausam-India">repo</a> · <a href="https://mausam-india.pages.dev">live</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://himanvic.pages.dev/"><img src="assets/card-himanvic-portfolio.svg" alt="himanvic-portfolio project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/himanvic-portfolio">repo</a> · <a href="https://himanvic.pages.dev/">live</a></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://naradnow.pages.dev/"><img src="assets/card-naradnow.svg" alt="NaradNow project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/NaradNow">repo</a> · <a href="https://naradnow.pages.dev/">live</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/himanvic/bottelneck.sys"><img src="assets/card-bottelneck-sys.svg" alt="bottelneck.sys project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/bottelneck.sys">repo</a></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://sanskode.pages.dev"><img src="assets/card-sanskode.svg" alt="sanskode project card" width="100%" /></a>
+      <br /><sub><a href="https://github.com/himanvic/sanskode">repo</a> · <a href="https://sanskode.pages.dev">live</a></sub>
+>>>>>>> 9e8909a3385060773055adf19569ea2099ce3a29
     </td>
   </tr>
 </table>
